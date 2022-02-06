@@ -91,16 +91,16 @@
         <text term="no date" form="short"/>
       </else>
     </choose>
-  </macro>  
+  </macro>
   <citation et-al-min="3" et-al-use-first="1">
     <sort>
       <key variable="citation-number"/>
     </sort>
     <layout prefix="[" suffix="]" delimiter="; ">
       <group prefix="[" suffix="] ">
-		<text variable="citation-number"/>
+        <text variable="citation-number"/>
       </group>
-	  <group delimiter=" ">
+      <group delimiter=" ">
         <text macro="author-short"/>
         <text macro="issued-year"/>
       </group>

@@ -6,8 +6,8 @@
     <updated></updated>
   </info>
   <bibliography>
-  <layout>
+    <layout>
       <text variable="title" prefix="name:&quot;" suffix="&quot;"/>
-  </layout>
+    </layout>
   </bibliography>
 </style>
