@@ -3,11 +3,11 @@
   <info>
     <title>blakeNaccarato/citation-styles 0: Copy title only</title>
     <id>https://raw.githubusercontent.com/blakeNaccarato/citation-styles/main/0_copy-title-only.csl</id>
-    <updated></updated>
+    <updated>2022-02-06T15:00:00+00:00</updated>
   </info>
-  <bibliography>
+  <citation>
     <layout>
       <text variable="title"/>
     </layout>
-  </bibliography>
+  </citation>
 </style>

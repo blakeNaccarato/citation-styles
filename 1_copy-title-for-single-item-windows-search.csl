@@ -3,11 +3,11 @@
   <info>
     <title>blakeNaccarato/citation-styles 1: Copy title for single item Windows search</title>
     <id>https://raw.githubusercontent.com/blakeNaccarato/citation-styles/main/1_copy-title-for-single-item-windows-search.csl</id>
-    <updated></updated>
+    <updated>2022-02-06T15:00:00+00:00</updated>
   </info>
-  <bibliography>
+  <citation>
     <layout>
       <text variable="title" prefix="name:&quot;" suffix="&quot;"/>
     </layout>
-  </bibliography>
+  </citation>
 </style>

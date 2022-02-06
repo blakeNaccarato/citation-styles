@@ -3,7 +3,7 @@
   <info>
     <title>blakeNaccarato/citation-styles 3: IJHMT, Show Author and Year</title>
     <id>https://raw.githubusercontent.com/blakeNaccarato/citation-styles/main/3_ijhmt_show_author_and_year.csl</id>
-    <updated></updated>
+    <updated>2022-02-06T15:00:00+00:00</updated>
   </info>
   <macro name="author">
     <names variable="author">
