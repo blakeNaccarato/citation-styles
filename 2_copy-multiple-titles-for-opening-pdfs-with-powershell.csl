@@ -5,9 +5,9 @@
     <id>https://raw.githubusercontent.com/blakeNaccarato/citation-styles/main/2_copy-multiple-titles-for-opening-pdfs-with-powershell.csl</id>
     <updated></updated>
   </info>
-  <bibliography>
+  <citation>
     <layout>
       <text variable="title" prefix="*" suffix="*;"/>
     </layout>
-  </bibliography>
+  </citation>
 </style>
