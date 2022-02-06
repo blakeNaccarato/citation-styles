@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" page-range-format="minimal" demote-non-dropping-particle="never" default-locale="en-US">
+  <info>
+    <title>blakeNaccarato/citation-styles 2: Copy Multiple Titles for Opening PDFs with PowerShell</title>
+    <id>https://raw.githubusercontent.com/blakeNaccarato/citation-styles/main/2_copy-multiple-titles-for-opening-pdfs-with-powershell.csl</id>
+    <updated></updated>
+  </info>
+  <bibliography>
+    <layout>
+      <text variable="title" prefix="*" suffix="*;"/>
+    </layout>
+  </bibliography>
+</style>
